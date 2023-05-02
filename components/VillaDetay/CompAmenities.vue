@@ -103,7 +103,6 @@
             <li class="list-group-item pb-0">
               <i class="fa-solid fa-check-circle text-success me-2"></i>Hindi
             </li>
-            
           </ul>
         </div>
       </div>
